@@ -1,0 +1,17 @@
+
+= Introduction =
+
+USBot is a simple script for remote control. The script downloads a file uploaded to a web server and executes the commands it contains. You can run the same command on multiple hosts or individual.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+=Requirements=
+
+  * A Unix Shell with _wget_, _md5sum_, _cat_, _grep_, _awk_
+  * A web server (http or ftp)
