@@ -1,0 +1,1 @@
+USBot is a simple script for remote control. The script downloads a file uploaded to a web server and executes the commands it contains. You can run the same command on multiple hosts or individual.
